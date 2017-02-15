@@ -36,7 +36,7 @@ This solution combines several Azure services to provide powerful advantages. Az
 The 'Deploy' button will launch a workflow that will deploy an instance of the solution within a Resource Group in the Azure subscription you specify. The solution includes multiple Azure services (described below) along with a web job that simulates data so that immediately after deployment you have a working end-to-end solution. 
 
 ## Solution Diagram
-![Solution Diagram](Figures/SolutionArchitecture.png)
+![Solution Diagram](https://github.com/Azure/cortana-intelligence-price-optimization-for-retail/raw/master/Automated%20Deployment%20Guide/Figures/SolutionArchitecture.png)
 
 ## Technical details and workflow
 1.	The simulation data is generated hourly by newly deployed **Azure Web Jobs**.
